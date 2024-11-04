@@ -1,4 +1,4 @@
 # odin-recipes
 
-Odin-Recipes is the first project in the Fundamentals course of The Odin Project with the goal of practicing the fundamentals of HTML.
-This website is an online cookbook containing recipes for several Filipino dishes.
+This is a basic online cookbook containing several Filipino recipes compiled from other sources on the internet.
+As the first project in The Odin Project's Fundamentals course, the goal of this website is to practice the fundamentals of HTML.
