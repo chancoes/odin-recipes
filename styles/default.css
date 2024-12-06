@@ -45,9 +45,7 @@ h2{
 }
 
 #index-recipe-list{
-    display:block;
-    height:auto;
-    width:auto;
-    margin-left:center;
-    margin-right:auto;
+    display:flex;
+    justify-content:space-around;
+    list-style:none;
 }
