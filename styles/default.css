@@ -38,3 +38,16 @@ h2{
     margin-left:auto;
     margin-right:auto;
 }
+
+#index-img-showcase{
+    display:flex;
+    justify-content: space-between;
+}
+
+#index-recipe-list{
+    display:block;
+    height:auto;
+    width:auto;
+    margin-left:center;
+    margin-right:auto;
+}
