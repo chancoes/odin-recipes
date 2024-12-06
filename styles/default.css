@@ -1,0 +1,40 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+}
+
+h1,
+h2,
+a{
+    color:white;
+    background-color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    font-size:50px;
+}
+
+h2{
+    font-size:30px;
+}
+
+.navigation-internal{
+    font-size:22px;
+    text-decoration: none;
+}
+
+.navigation-external{
+    text-decoration: none;
+    background-color: transparent;
+    color:black;
+}
+
+.recipe-img{
+    display:block;
+    height:auto;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+}
