@@ -32,12 +32,33 @@ h2{
     font-size:30px;
 }
 
-.navigation-internal{
-    font-size:22px;
-    text-decoration: none;
+.navbar{
+    border:1em;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
 }
 
-.navigation-external{
+.navbar li{
+    display: inline-block;
+    width:12em;
+    height:2.5em;
+    padding:0.1em;
+    margin: 5px;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    background-color: grey;
+}
+
+.nav-internal{
+    font-size:22px;
+    text-decoration: none;
+    background-color: grey;
+}
+
+.nav-external{
     text-decoration: none;
     background-color: transparent;
     color:black;
