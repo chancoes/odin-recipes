@@ -33,6 +33,7 @@ h2{
 }
 
 .navbar{
+    width:100%;
     border:1em;
     border-style: double none;
     border-color: black;
